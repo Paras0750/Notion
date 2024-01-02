@@ -8,6 +8,20 @@
       "when": 1704045027763,
       "tag": "0000_far_sleeper",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704211870112,
+      "tag": "0001_small_baron_strucker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704213998318,
+      "tag": "0002_steep_northstar",
+      "breakpoints": true
     }
   ]
 }
